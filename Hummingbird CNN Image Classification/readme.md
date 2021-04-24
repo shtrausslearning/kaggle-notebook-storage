@@ -1,6 +1,7 @@
 #  **HUMMINGBIRD CLASSIFICATION**
 For [Hummingbirds at my feeders](https://www.kaggle.com/akimball002/hummingbirds-at-my-feeders) dataset, Wonderful Photo by [Zdeněk Macháček](https://unsplash.com/@zmachacek)
-<b>As a sidenote:</b> If you use art/photography in your notebooks, please have the courtesy to give credit to the artist in question & make sure the artwork release license allows you to use it. Artwork is not a code, every piece is created with a specific individual style & a lot of work goes into the creation of every piece.
+
+[View Notebook on Kaggle](https://www.kaggle.com/shtrausslearning/hummingbird-classification-with-cnn) for nicer formatting output & interative plots.
 
 # 1. <span style='color:#B6DA32 '> INTRODUCTION </span>
 
@@ -37,6 +38,9 @@ For [Hummingbirds at my feeders](https://www.kaggle.com/akimball002/hummingbirds
 - [Keras Image Augmentation](https://www.tensorflow.org/tutorials/images/data_augmentation)
 
 # 2. <span style='color:#B6DA32 '>DATASET </span>
+
+Applicable Dataset can be accessed on Kaggle; https://www.kaggle.com/akimball002/hummingbirds-at-my-feeders
+
 - In the context of bird monitoring, what this dataset outlines more than anything else is that you don't need to place cameras right next to the feeder, which for some species can be offputting & the images don't need to be of perfect quality in order to create a classifier that can identify hummingbird species accurately.
 - We will go through the images images in <b>Training Image Exploration</b>
 - The primary birds at the feeders this year are [broad-tailed (Selasphorous platycerus)*](https://www.allaboutbirds.org/guide/Broad-tailed_Hummingbird/id ) and a few [rufous (Selasphorous rufus)*](https://www.allaboutbirds.org/guide/Rufous_Hummingbird/) hummingbirds</b>.
