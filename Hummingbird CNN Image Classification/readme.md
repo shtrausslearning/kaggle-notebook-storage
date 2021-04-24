@@ -4,6 +4,10 @@
 [View Notebook on Kaggle](https://www.kaggle.com/shtrausslearning/hummingbird-classification-with-cnn) for nicer formatting output & interative plots.
 Wonderful Photo by [Zdeněk Macháček](https://unsplash.com/@zmachacek)
 
+# Still on ToDo List:
+- Video Image Test Inference.
+- Section about the influence of image clarity for better classification.
+
 # 1. <span style='color:#B6DA32 '> INTRODUCTION </span>
 
 ![banner](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8cc1eeaa-4046-4c4a-ae93-93d656f68688/dehie0n-a2e641c6-af9a-47cf-832c-8015e86b7347.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOGNjMWVlYWEtNDA0Ni00YzRhLWFlOTMtOTNkNjU2ZjY4Njg4XC9kZWhpZTBuLWEyZTY0MWM2LWFmOWEtNDdjZi04MzJjLTgwMTVlODZiNzM0Ny5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.CnD5mRUqdz93URXVhEPqPNQLlY5U4bq-uDVWCZ2Bn4g)
