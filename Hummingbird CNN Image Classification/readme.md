@@ -1,9 +1,8 @@
 #  **HUMMINGBIRD CLASSIFICATION**
-For [Hummingbirds at my feeders](https://www.kaggle.com/akimball002/hummingbirds-at-my-feeders) dataset, Wonderful Photo by [Zdeněk Macháček](https://unsplash.com/@zmachacek)
-
 **Preword**
 
 [View Notebook on Kaggle](https://www.kaggle.com/shtrausslearning/hummingbird-classification-with-cnn) for nicer formatting output & interative plots.
+Wonderful Photo by [Zdeněk Macháček](https://unsplash.com/@zmachacek)
 
 # 1. <span style='color:#B6DA32 '> INTRODUCTION </span>
 
