@@ -1,6 +1,8 @@
 #  **HUMMINGBIRD CLASSIFICATION**
 For [Hummingbirds at my feeders](https://www.kaggle.com/akimball002/hummingbirds-at-my-feeders) dataset, Wonderful Photo by [Zdeněk Macháček](https://unsplash.com/@zmachacek)
 
+**Preword**
+
 [View Notebook on Kaggle](https://www.kaggle.com/shtrausslearning/hummingbird-classification-with-cnn) for nicer formatting output & interative plots.
 
 # 1. <span style='color:#B6DA32 '> INTRODUCTION </span>
@@ -39,7 +41,7 @@ For [Hummingbirds at my feeders](https://www.kaggle.com/akimball002/hummingbirds
 
 # 2. <span style='color:#B6DA32 '>DATASET </span>
 
-Applicable Dataset can be accessed on Kaggle; https://www.kaggle.com/akimball002/hummingbirds-at-my-feeders
+Applicable Dataset can be accessed on Kaggle; [Hummingbirds at my feeders](https://www.kaggle.com/akimball002/hummingbirds-at-my-feeders) dataset
 
 - In the context of bird monitoring, what this dataset outlines more than anything else is that you don't need to place cameras right next to the feeder, which for some species can be offputting & the images don't need to be of perfect quality in order to create a classifier that can identify hummingbird species accurately.
 - We will go through the images images in <b>Training Image Exploration</b>
