@@ -35,3 +35,13 @@ For [Hummingbirds at my feeders](https://www.kaggle.com/akimball002/hummingbirds
 - [Hummingbirds 101](https://www.perkypet.com/advice/hummingbirds-101)
 - [Hummingbird Nectar Recipes](https://nationalzoo.si.edu/migratory-birds/hummingbird-nectar-recipe)
 - [Keras Image Augmentation](https://www.tensorflow.org/tutorials/images/data_augmentation)
+
+# 2. <span style='color:#B6DA32 '>DATASET </span>
+- In the context of bird monitoring, what this dataset outlines more than anything else is that you don't need to place cameras right next to the feeder, which for some species can be offputting & the images don't need to be of perfect quality in order to create a classifier that can identify hummingbird species accurately.
+- We will go through the images images in <b>Training Image Exploration</b>
+- The primary birds at the feeders this year are [broad-tailed (Selasphorous platycerus)*](https://www.allaboutbirds.org/guide/Broad-tailed_Hummingbird/id ) and a few [rufous (Selasphorous rufus)*](https://www.allaboutbirds.org/guide/Rufous_Hummingbird/) hummingbirds</b>.
+
+<b>Folder Layout</b>
+- Let's see what kind of dataset we are dealing with; there seems to be a specific folder already assembled specifically for modelling; <b>hummingbirds</b>, which contains subfolders for each separate class. When it comes time to create a dataset, this will be very convenient since we can just call the <b>.flow_from_directory</b> function.
+- There also is a folder containing 
+- As well as two other folder associated with a video recording (collection of still images); <b>video_test</b> & All images in the dataset; <b>All_images</b>
