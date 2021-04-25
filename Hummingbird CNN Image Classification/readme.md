@@ -51,8 +51,8 @@ Applicable Dataset can be accessed on Kaggle; [Hummingbirds at my feeders](https
 - The primary birds at the feeders this year are [broad-tailed (Selasphorous platycerus)*](https://www.allaboutbirds.org/guide/Broad-tailed_Hummingbird/id ) and a few [rufous (Selasphorous rufus)*](https://www.allaboutbirds.org/guide/Rufous_Hummingbird/) hummingbirds</b>.
 
 <b>Folder Layout</b>
-- Let's see what kind of dataset we are dealing with; there seems to be a specific folder already assembled specifically for modelling; <b>hummingbirds</b>, which contains subfolders for each separate class. When it comes time to create a dataset, this will be very convenient since we can just call the <b>.flow_from_directory</b> function.
-- There also is a folder containing 
+- The following observations are quite quickly noted ones, let's see what kind of dataset we're dealing with.
+- There is a folder already assembled specifically for modelling; <b>hummingbirds</b>, which contains subfolders for each separate class. When it comes time to create a dataset, this will be very convenient since we can just call the <b>.flow_from_directory</b> function.
 - As well as two other folder associated with a video recording (collection of still images); <b>video_test</b> & All images in the dataset; <b>All_images</b>
 
 ### RUFOUS FEMALE
