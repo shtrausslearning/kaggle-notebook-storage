@@ -45,6 +45,7 @@ Wonderful Photo by [Zdeněk Macháček](https://unsplash.com/@zmachacek)
 # 2. <span style='color:#B6DA32 '>DATASET </span>
 
 Applicable Dataset can be accessed on Kaggle; [Hummingbirds at my feeders](https://www.kaggle.com/akimball002/hummingbirds-at-my-feeders) dataset
+Preview images genered by function from [helper_functions.py](https://github.com/shtrausslearning/Kaggle-Jupyter-Notebooks/blob/main/Hummingbird%20CNN%20Image%20Classification/helper_functions.py)
 
 - In the context of bird monitoring, what this dataset outlines more than anything else is that you don't need to place cameras right next to the feeder, which for some species can be offputting & the images don't need to be of perfect quality in order to create a classifier that can identify hummingbird species accurately.
 - We will go through the images images in <b>Training Image Exploration</b>
