@@ -5,3 +5,4 @@
 - [Gaussian Processes | Airfoil Noise Modeling](https://www.kaggle.com/shtrausslearning/gaussian-processes-airfoil-noise-modeling)
 - [PyTorch | CNN Binary Image Classification](https://www.kaggle.com/shtrausslearning/pytorch-cnn-binary-image-classification)
 - [Hummingbird Classification | Keras CNN Models](https://www.kaggle.com/shtrausslearning/hummingbird-classification-keras-cnn-models)
+- [SED | Spectogram Broadband Model & Peak Identifier](https://www.kaggle.com/shtrausslearning/sed-spectogram-broadband-model-peak-identifier)
