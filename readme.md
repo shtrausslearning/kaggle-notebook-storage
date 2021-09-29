@@ -6,3 +6,4 @@
 - [PyTorch | CNN Binary Image Classification](https://www.kaggle.com/shtrausslearning/pytorch-cnn-binary-image-classification)
 - [Hummingbird Classification | Keras CNN Models](https://www.kaggle.com/shtrausslearning/hummingbird-classification-keras-cnn-models)
 - [SED | Spectogram Broadband Model & Peak Identifier](https://www.kaggle.com/shtrausslearning/sed-spectogram-broadband-model-peak-identifier)
+- [CFD Trade-Off Study Visualisation | Response Model](https://www.kaggle.com/shtrausslearning/cfd-trade-off-study-visualisation-response-model)
