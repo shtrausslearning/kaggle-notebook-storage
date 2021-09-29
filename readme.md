@@ -3,3 +3,4 @@
 - [Geospatial Data Visualisation | Australia](https://www.kaggle.com/shtrausslearning/geospatial-data-visualisation-australia)
 - [Bayesian Regression | House Price Prediction](https://www.kaggle.com/shtrausslearning/bayesian-regression-house-price-prediction)
 - [Gaussian Processes | Airfoil Noise Modeling](https://www.kaggle.com/shtrausslearning/gaussian-processes-airfoil-noise-modeling)
+- [PyTorch | CNN Binary Image Classification](https://www.kaggle.com/shtrausslearning/pytorch-cnn-binary-image-classification)
